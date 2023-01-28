@@ -1,0 +1,5 @@
+# ninja log v5
+0	10244	1651753319049264429	/data/sglee/colorhandpose3d-pytorch/colorhandpose3d/extensions/dilation2d/build/temp.linux-x86_64-3.6/src/cuda/dilation.o	c22557844b3fbee6
+0	18237	1651753327041219592	/data/sglee/colorhandpose3d-pytorch/colorhandpose3d/extensions/dilation2d/build/temp.linux-x86_64-3.6/src/cuda/dilation2d_cuda.o	d0e006a94ff47944
+0	18485	1651753345949114388	/data/sglee/colorhandpose3d-pytorch/colorhandpose3d/extensions/dilation2d/build/temp.linux-x86_64-3.6/src/cpp/dilation2d.o	30d8ef18acffb51f
+0	18669	1652345014327141510	/data/sglee/colorhandpose3d-pytorch/colorhandpose3d/extensions/dilation2d/build/temp.linux-x86_64-3.6/src/cuda/dilation2d_cuda.o	f681f4996695c64f

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 python -m torch.distributed.launch --master_port 12345 test.py --gpu 0 --stage lixel --test_epoch "45" --scale 1 --rot 0
