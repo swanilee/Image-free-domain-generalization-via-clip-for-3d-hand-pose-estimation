@@ -1,4 +1,4 @@
-## Image-free-domain-generalization-via-clip-for-3d-hand-pose-estimation
+## Image free domain generalization via clip for 3d hand pose estimation
 
 ### Prerequisties
 The code needs the following libraries:
