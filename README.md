@@ -11,9 +11,8 @@ The code needs the following libraries:
 We use the dataset of FreiHAND for training, and STB, RHD for testing.
 
 ## Pretrained file
-
+* Pretrained file Download : [Link text Here] (https://drive.google.com/drive/folders/1olYGUlt1pcoCC6I7wh4lC-MUESiseZgc?usp=sharing)
 ```
-Pretrained file Download : [Link text Here] (https://drive.google.com/drive/folders/1olYGUlt1pcoCC6I7wh4lC-MUESiseZgc?usp=sharing)
 Path: ../weights/snapshot_45.pth.tar
 ```
 
