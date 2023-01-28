@@ -2,7 +2,7 @@
 
 ### Prerequisties
 The code needs the following libraries:
-* Python
+* Python 3.6.13
 * Anaconda 
 * Pytorch 1.7.1
 
